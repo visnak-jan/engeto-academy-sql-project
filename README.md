@@ -37,4 +37,16 @@ Bylo zjištěno následující:
   | ------------- | ------------- |
   | Mléko  | 204,73 l  |
   | Chléb  | 57,32 kg  |
+  
+  
+  ### 3. Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?
+  
+  
+  ### 4. Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?.)
+  
+  Takoý rok neexistuje. 
+  Nejvyšší rozdíl byl v roce 2013, kde byl rozdíl 6,79 %
+
+
+  
 

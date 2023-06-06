@@ -26,7 +26,17 @@ Bylo zjištěno následující:
       |Zdravotní a sociální péče  |
       | Ostatní činnosti  |
       
-      
+  - Lze konstatovat, že mzdy rostly ve všech odvětvých za sledované období 2006 - 2018. Pouze jsou zde období, kde došlo k poklesům jako ve zmiňovaném roce 2013, kde u 6 odvětví došlo oproti roku 2012 k poklesu.
       
       
 ### 2. Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
+- zpravidla si lze napříč všemi odvětvými dovolit koupit více mléka za průměrnou čistou mzdu  v roce 2018 s porovnáním s prvním obdobím v datech - rokem 2006. Jedinná vyjímka je odvětví Peněžnictví a pojišťovnictví. 
+- Obdobné stanovisko platí i u chleba. Nejvíce chleba, konkrétně kg, si můžeme koupit v sektoru  . Na opačné straně je sektor Peněznictví a pojišťovnictví (241 kg méně). další odvětví, kde si lze koupit méně kg chleaba jsou: Ostatní činnosti, Těžba a dobývání,.
+
+
+    | Produkt         | Rozdíl       | 
+      | ------------- | -------------
+      | Mléko  |         204,73 l             |                 
+      | Chléb  |   57,32 kg
+  
+

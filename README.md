@@ -33,11 +33,6 @@ Bylo zjištěno následující:
 - zpravidla si lze napříč všemi odvětvými dovolit koupit více mléka za průměrnou čistou mzdu  v roce 2018 s porovnáním s prvním obdobím v datech - rokem 2006. Jedinná vyjímka je odvětví Peněžnictví a pojišťovnictví. 
 - Obdobné stanovisko platí i u chleba. Nejvíce chleba, konkrétně kg, si můžeme koupit v sektoru  . Na opačné straně je sektor Peněznictví a pojišťovnictví (241 kg méně). další odvětví, kde si lze koupit méně kg chleaba jsou: Ostatní činnosti, Těžba a dobývání,.
 
-
-    | Produkt         | Rozdíl       | 
-      | ------------- | -------------
-      | Mléko  |         204,73 l             |                 
-      | Chléb  |   57,32 kg
   | Produkt  | Rozdíl |
 | ------------- | ------------- |
 | Mléko  | 204,73 l  |

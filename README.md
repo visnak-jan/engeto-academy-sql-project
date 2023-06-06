@@ -47,6 +47,20 @@ Bylo zjištěno následující:
   Takoý rok neexistuje. 
   Nejvyšší rozdíl byl v roce 2013, kde byl rozdíl 6,79 %
 
-
+  ### 5. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?
+  Jelikož nemáme data cen potravin a mezd pro jiné země, než ČR, byla zkoumána data za Českou republiku. Z dat nelze zcela určit, že by pokles HDP měl vyliv na ceny nebo mzdy. 
   
-
+| Rok  | HDP   | Průměrná změna cen | Průměrná změna mezd |
+|------|-------|--------------------|---------------------|
+| 2007 | 5.57  | 9.26               | 6.91                |
+| 2008 | 2.69  | 8.92               | 7.42                |
+| 2009 | -4.66 | -6.59              | 3.11                |
+| 2010 | 2.43  | 1.52               | 2.19                |
+| 2011 | 1.76  | 4.84               | 2.15                |
+| 2012 | -0.79 | 7.47               | 2.83                |
+| 2013 | -0.05 | 6.01               | -0.78               |
+| 2014 | 2.26  | -0.62              | 2.49                |
+| 2015 | 5.39  | -0.69              | 2.78                |
+| 2016 | 2.54  | -1.41              | 3.97                |
+| 2017 | 5.17  | 7.06               | 6.73                |
+| 2018 | 3.2   | 2.41               | 7.67                |

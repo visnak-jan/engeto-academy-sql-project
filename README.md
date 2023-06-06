@@ -18,8 +18,9 @@ Bylo zjištěno následující:
 
 - Ve sledovaném obodbí došlo k poklesu u následujícíh odvětví:
 
-Zpracovatelský průmysl
-Doprava a skladování
-Administrativní a podpůrné činnosti
-Zdravotní a sociální péče
-Ostatní činnosti
+| First Header  | 
+| ------------- | 
+| Zpracovatelský průmysl  | 
+| Doprava a skladování  |
+|Administrativní a podpůrné činnosti |
+| Ostatní činnosti  |

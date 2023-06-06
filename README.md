@@ -18,7 +18,7 @@ Bylo zjištěno následující:
 
 - Ve sledovaném obodbí došlo k poklesu u následujícíh odvětví:
 
-| First Header  | 
+| Odvětví | 
 | ------------- | 
 | Zpracovatelský průmysl  | 
 | Doprava a skladování  |

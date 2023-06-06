@@ -1,5 +1,5 @@
 ## SQL Projekt
-Poznámky k SQL dotazům:
+Poznámky k SQL dotazům a jednotlivým otázkám:
 
 1. hlavní tabulka - tabulka dostuspnosti potravin na základě průměrných příjmů.
 - zee zdrojových dat czechia_price byla vypočítána průměrná cena potravin za celý rok. Cela byla v rámci všech regionů ČR způrměrována.
@@ -64,3 +64,11 @@ Bylo zjištěno následující:
 | 2016 | 2.54  | -1.41              | 3.97                |
 | 2017 | 5.17  | 7.06               | 6.73                |
 | 2018 | 3.2   | 2.41               | 7.67                |
+
+
+## Power BI
+Při řešení jsem chtěl zpracovávat jiná témata. Využil jsem tabulku heltcare_provider a pomocné tabulky czechia_region a czechia_district.
+Při řešení jsem se chtěl zabývat informacemi o možnosti zubařské péče. 
+Na prvním listu je jednotlivý přehled zubařské péče
+Na druhém listu je přehled interaktivní přehled. 
+

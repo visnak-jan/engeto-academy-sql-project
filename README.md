@@ -23,4 +23,5 @@ Bylo zjištěno následující:
 | Zpracovatelský průmysl  | 
 | Doprava a skladování  |
 |Administrativní a podpůrné činnosti |
+|Zdravotní a sociální péče  |
 | Ostatní činnosti  |

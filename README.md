@@ -34,7 +34,7 @@ Bylo zjištěno následující:
 - Obdobné stanovisko platí i u chleba. Nejvíce chleba, konkrétně kg, si můžeme koupit v sektoru  . Na opačné straně je sektor Peněznictví a pojišťovnictví (241 kg méně). další odvětví, kde si lze koupit méně kg chleaba jsou: Ostatní činnosti, Těžba a dobývání,.
 
   | Produkt  | Rozdíl |
-| ------------- | ------------- |
-| Mléko  | 204,73 l  |
-| Chléb  | 57,32 kg  |
+  | ------------- | ------------- |
+  | Mléko  | 204,73 l  |
+  | Chléb  | 57,32 kg  |
 

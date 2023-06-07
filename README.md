@@ -2,7 +2,7 @@
 Poznámky k SQL dotazům a jednotlivým otázkám:
 
 1. hlavní tabulka - tabulka dostuspnosti potravin na základě průměrných příjmů.
-- zee zdrojových dat czechia_price byla vypočítána průměrná cena potravin za celý rok. Cela byla v rámci všech regionů ČR způrměrována.
+- ze zdrojových dat czechia_price byla vypočítána průměrná cena potravin za celý rok. Cela byla v rámci všech regionů ČR způrměrována.
 - Pro každé odvětví byla ze zdrojové tabulky czechia_payroll vypočítán průměr roční mzdy pro každé odvětví. 
 - data baly srovnávána mezi roky 2006 a 2018
 
@@ -30,10 +30,11 @@ Bylo zjištěno následující:
       
       
 ### 2. Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
+Pro tento dotaz byla opět vytvořena nová tabulka.
 - zpravidla si lze napříč všemi odvětvými dovolit koupit více mléka za průměrnou čistou mzdu  v roce 2018 s porovnáním s prvním obdobím v datech - rokem 2006. Jedinná vyjímka je odvětví Peněžnictví a pojišťovnictví. 
 - Obdobné stanovisko platí i u chleba. Nejvíce chleba, konkrétně kg, si můžeme koupit v sektoru  . Na opačné straně je sektor Peněznictví a pojišťovnictví (241 kg méně). další odvětví, kde si lze koupit méně kg chleaba jsou: Ostatní činnosti, Těžba a dobývání,.
 
-  | Produkt  | Rozdíl |
+  | Produkt  | Rozdíl |+ 
   | ------------- | ------------- |
   | Mléko  | 204,73 l  |
   | Chléb  | 57,32 kg  |

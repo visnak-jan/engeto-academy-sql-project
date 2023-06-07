@@ -46,8 +46,8 @@ Pro tento dotaz byla opět vytvořena nová tabulka.
   - Zároveň lze konstatovat, že drtivá většina je draží v roce 2018, než v roce 2006. Vyjímkou je Cukr krystal, který je o 23,07% levnější
   
   | 2006 | Cukr krystalový              | 21.73 | 15.75 | -27.52 |
-|------|------------------------------|-------|-------|--------|
-| 2006 | Rajská jablka červená kulatá | 57.83 | 44.49 | -23.07 |
+  |------|------------------------------|-------|-------|--------|
+  | 2006 | Rajská jablka červená kulatá | 57.83 | 44.49 | -23.07 |
   
   
   ### 4. Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?.)

@@ -32,7 +32,10 @@ Bylo zjištěno následující:
 ### 2. Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
 Pro tento dotaz byla opět vytvořena nová tabulka.
 - zpravidla si lze napříč všemi odvětvými dovolit koupit více mléka za průměrnou čistou mzdu  v roce 2018 s porovnáním s prvním obdobím v datech - rokem 2006. Jedinná vyjímka je odvětví Peněžnictví a pojišťovnictví. 
-- Obdobné stanovisko platí i u chleba. Nejvíce chleba, konkrétně kg, si můžeme koupit v sektoru  . Na opačné straně je sektor Peněznictví a pojišťovnictví (241 kg méně). další odvětví, kde si lze koupit méně kg chleaba jsou: Ostatní činnosti, Těžba a dobývání,.
+- Obdobné stanovisko platí i u chleba. Nejvíce chleba, konkrétně 190 kg, si můžeme koupit v sektoru Zdravotní a sociální péče. Na opačné straně je sektor Peněznictví a pojišťovnictví (241 kg méně). další odvětví, kde si lze koupit méně kg chleaba jsou: Ostatní činnosti, Těžba a dobývání,.
+
+
+- Pokud porovnáme možství mléka a hleba za průměrnou roční mzdu v jednlotivých odvětví, lze si koupit vždy více litrů mléka, respektive kg chleba. Viz tabulka.
 
   | Produkt  | Rozdíl |
   | ------------- | ------------- |
@@ -43,11 +46,12 @@ Pro tento dotaz byla opět vytvořena nová tabulka.
   ### 3. Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?
   Byla vytvořena tabulka zobrazujcí všechny potraviny, která opsahuje průměrné změny cen potravint 
   - Největší meziroční rozdíl byl v roce 2007 u Rajských jablek, kde  rozdíl činil 30.28%.
-  - Zároveň lze konstatovat, že drtivá většina je draží v roce 2018, než v roce 2006. Vyjímkou je Cukr krystal, který je o 23,07% levnější
+  - Zároveň lze konstatovat, že drtivá většina je draží v roce 2018, než v roce 2006. Vyjímkou je Cukr krystal, který je o 23,07% levnější.
   
-  | 2006 | Cukr krystalový              | 21.73 | 15.75 | -27.52 |
-  |------|------------------------------|-------|-------|--------|
-  | 2006 | Rajská jablka červená kulatá | 57.83 | 44.49 | -23.07 |
+  | Produkt                      | Cena 2006 | Cena 2018| Rozdíl v % |
+  |------------------------------|-------|-------|--------|
+  | Cukr krystalový              | 21.73 | 15.75 | -27.52 |
+  | Rajská jablka červená kulatá | 57.83 | 44.49 | -23.07 |
   
   
   ### 4. Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?.)

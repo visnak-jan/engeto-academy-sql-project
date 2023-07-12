@@ -1,6 +1,5 @@
 CREATE OR REPLACE TABLE t_milk_and_bread_porovnani
 SELECT
-	table_1.industry_name,
 	table_1.l_milk_2006, table_2.l_milk_2018,
 	l_milk_2018 - l_milk_2006 AS milk_difference,
 	table_1.kg_bread_2006, table_2.kg_bread_2018,

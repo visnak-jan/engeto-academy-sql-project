@@ -31,9 +31,9 @@ Bylo zjištěno následující:
       
 ### 2. Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
 Pro tento dotaz byla opět vytvořena nová tabulka. Zdrojem dat je primární tabulka. Byla vybrán první (2006) a poslední rok (2014) v sledovaném období.
-- Pokud porovnáme možství mléka a hleba za průměrnou roční mzdu v jednlotivých odvětví, lze si koupit vždy více litrů mléka, respektive kg chleba. Viz tabulka.
+- Pokud porovnáme množství mléka a chleba za průměrnou roční mzdu v jednotlivých odvětví, lze si koupit vždy více litrů mléka, respektive kg chleba. Viz tabulka.
 
-  | Produkt  | Rozdíl |
+  | Produkt  | Rozdíl (rok 2004 - rok 2014 |
   | ------------- | ------------- |
   | Mléko  | 204,73 l  |
   | Chléb  | 57,32 kg  |

@@ -11,7 +11,7 @@ Poznámky k SQL dotazům a jednotlivým otázkám:
 
 ## Otázky:
 
-### 1. Rostou mzdy v průměbu hlet ve všech odvětvích nebo v některých klesají? 
+### 1. Rostou mzdy v průměbu let ve všech odvětvích nebo v některých klesají? 
 - byla vytvořena tabulka, kde jsou porovnané průměrné mzdy pro každí odvětví a jejich % změna oproti roku předchozímu.
 Bylo zjištěno následující:
   - Z této tabulky bylo zjištěno bylo několik odvětví, kde se ukázal pokles roční mzdy. Největší pokles byl v roce 2013. Roční mzdy nerostou pravidelně, v době finanční krize, která vypukla v roce 2009, došlo ke zhoršení ekonomických podmínek.

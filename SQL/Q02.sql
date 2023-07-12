@@ -51,8 +51,9 @@ SELECT
 	round(avg(kg_bread_2006), 2) AS avg_kg_bread_2006,
 	round(avg(kg_bread_2018), 2) AS avg_kg_bread_2018,
 	round(avg(kg_bread_2018), 2) - round(avg(kg_bread_2006), 2) AS avg_bread_difference
-FROM t_milk_and_bread_porovnani;
+FROM t_milk_and_bread_compare;
 
 
 
-SELECT * FROM t_milk_and_bread_porovnani;
+
+SELECT * FROM t_milk_and_bread_compare;

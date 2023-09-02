@@ -33,7 +33,7 @@ Bylo zjištěno následující:
 Pro tento dotaz byla opět vytvořena nová tabulka. Zdrojem dat je primární tabulka. Byla vybrán první (2006) a poslední rok (2014) v sledovaném období.
 - Pokud porovnáme množství mléka a chleba za průměrnou roční mzdu v jednotlivých odvětví, lze si koupit vždy více litrů mléka, respektive kg chleba. Viz tabulka.
 
-  | Produkt  | Rozdíl (rok 2006 - rok 2014) |
+  | Produkt  | Rozdíl (rok 2006 - rok 2018) |
   | ------------- | ------------- |
   | Mléko  | 204,73 l  |
   | Chléb  | 57,32 kg  |

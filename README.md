@@ -35,8 +35,8 @@ Pro tento dotaz byla opět vytvořena nová tabulka. Zdrojem dat je primární t
 
   | Produkt  | Rozdíl (rok 2006 - rok 2018) |
   | ------------- | ------------- |
-  | Mléko  | 204,73 l  |
-  | Chléb  | 57,32 kg  |
+  | Mléko  | 205 l  |
+  | Chléb  | 57 kg  |
   
   
   ### 3. Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?
